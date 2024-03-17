@@ -1,3 +1,4 @@
+# SPAM CLASSIFIER
 This repository contains code for a machine learning project focused on classifying email or SMS messages as spam or not spam. The project involves data preprocessing, exploratory data analysis, model training, evaluation, and deployment using Streamlit.
 
 Key components of the project include:
